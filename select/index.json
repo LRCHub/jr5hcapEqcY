@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Brand New World",
+  "base_artist": "Helios+trope",
+  "createdAt": "2025-12-11T06:24:00.928419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New World",
+      "artist": "Cowboy Junkies",
+      "has_synced": true,
+      "path": "select/01_Brand_New_World_Cowboy_Junkies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New World",
+      "artist": "TRiDENT",
+      "has_synced": false,
+      "path": "select/02_Brand_New_World_TRiDENT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BRAND NEW WORLD",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/03_BRAND_NEW_WORLD_D-51.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Brand New World God Only Knows",
+      "artist": "Oratorio The World God Only Knows",
+      "has_synced": false,
+      "path": "select/04_A_Brand_New_World_God_Only_Knows_Oratorio_The_World_God_Only_Knows.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brand New World",
+      "artist": "Noah Gundersen",
+      "has_synced": true,
+      "path": "select/05_Brand_New_World_Noah_Gundersen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New World (feat. Abby Gundersen & Michael Porter)",
+      "artist": "Noah Gundersen",
+      "has_synced": true,
+      "path": "select/06_Brand_New_World_(feat._Abby_Gundersen_&_Michael_Porter)_Noah_Gundersen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New World",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/07_Brand_New_World_D-51.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand-New World",
+      "artist": "V6",
+      "has_synced": true,
+      "path": "select/08_Brand-New_World_V6.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Brand New World",
+      "artist": "Sexy Sadie",
+      "has_synced": true,
+      "path": "select/09_A_Brand_New_World_Sexy_Sadie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "brand new world",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/10_brand_new_world_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New World,Brand New Me",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/11_Brand_New_World,Brand_New_Me_やなぎなぎ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New World",
+      "artist": "Helios+trope",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_World_Helios+trope.txt"
+    }
+  ]
+}
